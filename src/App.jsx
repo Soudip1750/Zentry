@@ -4,6 +4,7 @@ import Hero from "./Components/Hero.jsx";
 import About from "./Components/About.jsx";
 import Navbar from "./Components/Navbar.jsx";
 import Features from "./Components/Features.jsx";
+import Story from "./Components/Story.jsx";
 
 const App = () => {
     return (
@@ -12,6 +13,7 @@ const App = () => {
             <Hero />
             <About />
             <Features />
+            <Story />
         </main>
     )
 }
