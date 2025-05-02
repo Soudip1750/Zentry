@@ -62,7 +62,7 @@ const Features = () => {
                     </p>
                 </div>
                 <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
-                    <BentoCard src="videos/feature-1.mp4" title={<>radi<b>n</b>t</>} description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure." />
+                    <BentoCard src="videos/feature-1.mp4" title={<>radia<b>n</b>t</>} description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure." />
                 </BentoTilt>
                 <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
                     <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
